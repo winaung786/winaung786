@@ -1,107 +1,121 @@
 <h1 align="center">Hi there, I'm Win Aung 👋</h1>
 
 <p align="center">
-  <b>AI & Robotics Specialist | Python Developer | HCC ITAI Program</b><br/>
-  Houston Community College — A.A.S. Artificial Intelligence Technology
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Student+%40+HCC;Machine+Learning+%7C+Deep+Learning+%7C+NLP;AI+in+Healthcare+%7C+AI+Controls+for+Robotics;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:786winkoaung@gmail.com"><img src="https://img.shields.io/badge/Email-786winkoaung%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Houston%2C%20TX-0078D7?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Houston%2C%20TX-0078D7?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a dedicated Artificial Intelligence student at **Houston Community College (HCC)**, pursuing the **A.A.S. in Artificial Intelligence Technology** through the Digital & Information Technology (DIT) Department. My academic journey spans the full AI stack — from foundational machine learning and Python programming to advanced robotics control systems, healthcare AI, and edge computing.
+I am an **Artificial Intelligence and Robotics student** at Houston Community College, pursuing a comprehensive curriculum in AI, Machine Learning, Deep Learning, and Robotics. My academic work spans AI applications in healthcare, AI controls for robotic systems, and foundational programming. I am a member of **Phi Theta Kappa Honor Society — Omega Sigma Chapter**, reflecting my commitment to academic excellence.
 
-I am passionate about building intelligent systems that solve real-world problems, particularly at the intersection of **AI, Robotics, and Healthcare**. I thrive in collaborative team environments (Neural Sparks | Neural Nexus) and consistently deliver high-quality technical work.
+I am passionate about building intelligent systems that solve real-world problems — from clinical decision support in healthcare to autonomous robotic control systems.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
-| Category | Skills |
+| Category | Technologies |
 |---|---|
-| **Programming** | Python |
-| **AI & Machine Learning** | Machine Learning, Deep Learning, Neural Networks, Reinforcement Learning (RL), Federated Learning (FL) |
-| **Natural Language Processing** | NLP Study Analysis, Clinical Text Processing |
-| **Robotics** | AI Control Systems, Universal Robots (UR3e), VideoBot Projects |
-| **Infrastructure** | Cloud AI (AWS/Azure), On-Premises AI Hardware, AI at the Edge & IIoT, 5G/6G & ORAN Networks |
-| **Data** | Curating Data for AI Optimization, Database Theory & Design |
-| **Governance** | AI Policies, Procedures & Governance, Intellectual Property in AI |
-| **Domain Expertise** | Healthcare AI, Prognostic Models, Clinical Decision Support Systems, Neuroscience as a Model for AI |
+| **Languages** | Python, C++, SQL |
+| **AI / ML** | TensorFlow, PyTorch, Scikit-learn, OpenCV |
+| **NLP** | NLTK, spaCy, Hugging Face Transformers |
+| **Robotics** | ROS, UR3e Robot Arm, Computer Vision |
+| **Cloud & Edge AI** | AWS, Azure, NVIDIA Jetson |
+| **Data & Visualization** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook |
+| **Healthcare AI** | EHR Analysis, Clinical Decision Support, Federated Learning |
 
 ---
 
-## 📚 Academic Projects & Coursework
+## Academic Projects
 
-### 🤖 AI Controls for Robotics — ITAI 4376 (Spring 2026)
-Advanced study of AI-driven control systems for robotic platforms. Completed practical lab implementations achieving **100% ("Excellent!!")** on the Module 5 lab. Developed a comprehensive project plan (A05-A: 95%, "Very well done.") and is currently progressing through the MidTerm and Final project phases. Team: **Neural Nexus**.
+### ITAI-4376 — AI Controls for Robotics
+> **Grade: 105% (A+)** | Spring 2026
 
-### 🦾 Artificial Intelligence in Robotics — ITAI 3379 (Spring 2026)
-Hands-on coursework with the **Universal Robots UR3e** robotic arm. Completed the **Midterm VideoBot Project**, integrating AI principles with physical robotics hardware. Covered AI fundamentals in robotics, lab practicals, and technical reporting. Team: **Neural Sparks**.
+[![Repo](https://img.shields.io/badge/View%20Repo-robotics--ai--controls--lab-181717?style=for-the-badge&logo=github)](https://github.com/winaung786/robotics-ai-controls-lab)
 
-### 🏥 Artificial Intelligence in Healthcare — ITAI 4375 (Spring 2026)
-In-depth exploration of AI applications in clinical settings. Highlights include:
-- **NLP Study Critique** — Critical analysis of a Natural Language Processing study in a medical context (Score: 97%)
-- **Midterm Exam** — Comprehensive assessment of healthcare AI terminology and concepts (Score: 98%)
-- Topics: Reinforcement Learning, Federated Learning, Clinical Decision Support Systems, Prognostic Models, Non-Traditional Health Data
-
-### 🧠 Neuroscience as a Model for AI — ITAI 4374 (Spring 2026)
-Exploring how biological neural systems inspire artificial intelligence architectures and algorithms.
-
-### 💻 Programming Fundamentals I (Python) — COSC 1436
-Built a strong foundation in Python programming, focusing on problem-solving, algorithms, and software development best practices.
+Hands-on laboratory projects implementing AI control algorithms for robotic systems. Achieved extra credit for outstanding performance in L03 Lab and L05 Lab assignments. Topics include robotic kinematics, computer vision for robotics (VideoBot), and AI control feedback loops.
 
 ---
 
-## 🎓 Completed ITAI Coursework
+### ITAI-4375 — AI in Healthcare
+> **Overall Grade: 93.29% (A)** | Spring 2026
+
+**Assignment 8 — Critiquing an NLP Study in Healthcare**
+[![Repo](https://img.shields.io/badge/View%20Repo-nlp--critique--healthcare-181717?style=for-the-badge&logo=github)](https://github.com/winaung786/nlp-critique-healthcare)
+> Grade: **97%** — Critical analysis of NLP applications in Electronic Health Records (EHRs).
+
+**MidTerm — AI in Healthcare Glossary**
+[![Repo](https://img.shields.io/badge/View%20Repo-ai--healthcare--glossary-181717?style=for-the-badge&logo=github)](https://github.com/winaung786/ai-healthcare-glossary)
+> Grade: **98%** — Comprehensive glossary of AI and healthcare terminology.
+
+**Assignment 5 — Critiquing Prognostic Models**
+[![Repo](https://img.shields.io/badge/View%20Repo-prognostic--models--analysis-181717?style=for-the-badge&logo=github)](https://github.com/winaung786/prognostic-models-analysis)
+> Grade: **96%** — Critical evaluation of AI-based prognostic models in clinical medicine.
+
+**Assignment 7 — Leveraging AI in a Medical Case Study**
+[![Repo](https://img.shields.io/badge/View%20Repo-ai--medical--case--study-181717?style=for-the-badge&logo=github)](https://github.com/winaung786/ai-medical-case-study)
+> Grade: **95%** — Applying AI technologies to a real-world medical case.
+
+---
+
+### ITAI-3379 — AI in Robotics
+> **Grade: 102.5% (A+)** | Spring 2026
+
+Coursework covering robotic intelligence, VideoBot development, and UR3e robot arm programming. Achieved 105% on A03 and L03 assignments.
+
+---
+
+## Completed Coursework
+
+| Course | Title | Term | Grade |
+|---|---|---|---|
+| ITAI-4376 | AI Controls for Robotics | Spring 2026 | A+ (105%) |
+| ITAI-4375 | AI in Healthcare | Spring 2026 | A (93%) |
+| ITAI-3379 | AI in Robotics | Spring 2026 | A+ (102.5%) |
+| ITAI-4374 | AI at the Edge | Fall 2025 | Completed |
+| ITAI-4373 | Cloud AI | Fall 2025 | Completed |
+| ITAI-4372 | On-Premises AI Hardware | Fall 2025 | Completed |
+| ITAI-4371 | AI Governance & Ethics | Fall 2025 | Completed |
+| ITAI-2370 | Deep Learning | Spring 2025 | Completed |
+| ITAI-2369 | Machine Learning | Spring 2025 | Completed |
+| COSC-1436 | Programming Fundamentals (Python) | Fall 2024 | Completed |
+
+---
+
+## Upcoming Coursework
 
 | Course | Title | Term |
 |---|---|---|
-| ITAI 1370 | Artificial Intelligence History | Fall 2023 |
-| ITAI 1371 | Introduction to Machine Learning | Spring 2024 |
-| ITAI 2372 | Artificial Intelligence Applications | Fall 2024 |
-| ITAI 2376 | Deep Learning Artificial Intelligence | Fall 2024 |
-| ITAI 3371 | Cloud Configuration & Resources for AI | Spring 2025 |
-| ITAI 3374 | On-Premises AI Hardware Platform | Summer 2025 |
-| ITAI 3375 | Curating Data for AI Optimization | Spring 2025 |
-| ITAI 3377 | AI at the Edge & IIoT Environment | Spring 2025 |
-| ITAI 4372 | AI Policies, Procedures & Governance | Spring 2025 |
-| ITAI 4373 | The New Nature of Work in AI | Spring 2025 |
+| ITAI-4370 | Advanced AI Topics | Summer 2026 |
+| ITAI-4371 | AI Governance (Advanced) | Summer 2026 |
 
 ---
 
-## 🔮 Upcoming Coursework
-
-| Course | Title | Term |
-|---|---|---|
-| ITAI 4370 | AI 5/6G Communication & ORAN Networks | Summer 2026 |
-| ITAI 4371 | Digital Twins & Virtual Simulation | Summer 2026 |
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winaung786&show_icons=true&theme=tokyonight&hide_border=true" alt="Win Aung GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winaung786&theme=tokyonight&hide_border=true" alt="Win Aung GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=winaung786&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winaung786&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winaung786&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://streak-stats.demolab.com?user=winaung786&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Honors & Affiliations
+## Honors & Affiliations
 
-- **Phi Theta Kappa** — Omega Sigma Chapter (Academic Honor Society)
-- Consistent high academic performance across all ITAI coursework
-- Active team member: Neural Sparks (ITAI 3379) | Neural Nexus (ITAI 4376)
+- **Phi Theta Kappa Honor Society** — Omega Sigma Chapter, Houston Community College
 
 ---
 
