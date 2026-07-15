@@ -20,6 +20,28 @@ I am passionate about building intelligent systems that solve real-world problem
 
 ---
 
+## Featured Product Projects
+
+### MindWhisper — AI Mental Wellness Companion
+
+[![GitHub](https://img.shields.io/badge/View%20Project-mind--whisper--ai--57-181717?style=for-the-badge&logo=github)](https://github.com/winaung786/mind-whisper-ai-57)
+
+An AI-powered mental wellness companion designed to support healthier daily habits. MindWhisper combines mood check-ins, personalized insights, guided breathing exercises, goals, achievements, a mental-health resource library, and safety-aware crisis support in one accessible experience.
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui
+
+---
+
+### CareerKiosk — AI-Powered Career Guidance Platform
+
+[![Live Site](https://img.shields.io/badge/Visit-CareerKiosk.ai-C9A84C?style=for-the-badge)](https://careerkiosk.ai/)
+
+A career platform I founded to help job seekers move from uncertainty to opportunity. CareerKiosk provides personalized job matching, resume analysis, match percentages, and AI-powered interview preparation through one unified career-guidance experience.
+
+**Core features:** Personalized Job Matches, Resume Scanner, AI Interview Coach, Career Guidance
+
+---
+
 ## Tech Stack & Skills
 
 | Category | Technologies |
