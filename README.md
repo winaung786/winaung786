@@ -113,12 +113,12 @@ Coursework covering robotic intelligence, VideoBot development, and UR3e robot a
 
 ---
 
-## Upcoming Coursework
+## Current HCC Coursework
 
 | Course | Title | Term |
 |---|---|---|
-| ITAI-4370 | Advanced AI Topics | Summer 2026 |
-| ITAI-4371 | AI Governance (Advanced) | Summer 2026 |
+| ITAI-4370 | A.I. 5/6G Communications & ORAN Networks | Summer 2026 |
+| ITAI-4371 | Digital Twins & Virtual Simulation in A.I. | Summer 2026 |
 
 ---
 
